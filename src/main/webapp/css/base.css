@@ -1,0 +1,57 @@
+.icon-person {
+	background: url('../img/user.png') no-repeat center center;
+}
+.icon-arrow-left {
+	background: url('../img/arrow_left.png') no-repeat center center;
+}
+
+.icon-arrow-right {
+	background: url('../img/arrow_right.png') no-repeat center center;
+}
+
+.icon-medal-gold {
+	background: url('../img/medal_gold_3.png')
+		no-repeat center center;
+}
+
+.icon-control_power {
+	background: url('../img/control_power.png') no-repeat
+		center center;
+}
+
+.icon-arrow_left {
+	background: url('../img/IconsExtension/arrow_left.png') no-repeat center
+		center;
+}
+
+.icon-application_go {
+	background: url('../img/application_go.png') no-repeat
+		center center;
+}
+
+.icon-cross {
+	background: url('../img/cross.png') no-repeat center
+		center;
+}
+
+
+.icon-application_add {
+	background: url('../img/application_add.png') no-repeat
+		center center;
+}
+.icon-disk_download {
+	background: url('../img/disk_download.png') no-repeat
+		center center;
+}
+.icon-base-download {
+	background: url('../img/download.png') no-repeat center
+		center;
+}
+.icon-disk_upload {
+	background: url('../img/disk_upload.png') no-repeat
+		center center;
+}
+.icon-bug_fix {
+	background: url('../img/bug_fix.png') no-repeat center
+		center;
+}
